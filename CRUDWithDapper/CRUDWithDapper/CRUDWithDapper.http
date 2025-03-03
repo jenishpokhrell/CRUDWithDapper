@@ -1,0 +1,6 @@
+@CRUDWithDapper_HostAddress = http://localhost:5155
+
+GET {{CRUDWithDapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
